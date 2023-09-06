@@ -20,7 +20,7 @@
 	const navbar = {
   links: [
     { title: 'Docs', slug: '/docs', match: /\/docs/ },
-    { title: 'Github', slug: 'https://github.come/TopicBotList/Docs', match: /\/example/ },
+    { title: 'Github', slug: 'https://github.com/DscInflux/Docs/', match: /\/example/ },
 		{ title: 'Website', slug: 'https://discordinflux.xyz', match: /\/example/ },
   ]
 };
