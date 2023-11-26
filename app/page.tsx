@@ -23,7 +23,7 @@ const WelcomeSection: React.FC<Props> = () => {
         <img src="https://avatars.githubusercontent.com/u/144157365?s=200&v=4" alt="Futuristic Logo" style={{ width: 150, height: 150, borderRadius: '50%', objectFit: 'cover', border: '2px solid #00bfff' }} />
       </h2>
 
-      <p style={{ fontSize: '1.5em', margin: '20px 0', color: '#b8b8b8' }}>Welcome to Influx Docs!</p>
+      <p style={{ fontSize: '1.5em', margin: '20px 0', color: '#b8b8b8' }}>Welcome to DscInflux Docs!</p>
       <p style={{ marginBottom: '30px', fontSize: '1.2em', color: '#e0e0e0' }}>On this website, we will show you how to use our API on your services. We're here to help you use our site.</p>
 
       <div style={{
